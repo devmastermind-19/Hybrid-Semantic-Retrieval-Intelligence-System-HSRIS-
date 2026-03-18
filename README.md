@@ -52,8 +52,11 @@ notebook.ipynb
 ├── Section 9  — Dual GPU benchmarking
 
 ├── Section 10 — Precision@5 evaluation
+
 ├── Section 11 — Visualization (comparison plots)
+
 └── Section 12 — Gradio deployment interface
 
 Platform
+
 Kaggle Notebook · Dual NVIDIA T4 x2 · Python 3.10 · PyTorch 2.x
