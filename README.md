@@ -32,15 +32,25 @@ MethodMean P@5TF-IDF only (α=1.0)~0.62GloVe only (α=0.0)~0.58Hybrid (α=0.4)~0
 
 Project structure
 notebook.ipynb
+
 ├── Section 1  — Environment setup & GPU config
+
 ├── Section 2  — Dataset loading
+
 ├── Section 3  — Custom preprocessing pipeline
+
 ├── Section 4  — Tokenization & vocabulary (N-grams)
+
 ├── Section 5  — Categorical encoders (label + one-hot)
+
 ├── Section 6  — TF-IDF + sparse tensor storage
+
 ├── Section 7  — GloVe embeddings + weighted sentence vectors
+
 ├── Section 8  — Hybrid retrieval function
+
 ├── Section 9  — Dual GPU benchmarking
+
 ├── Section 10 — Precision@5 evaluation
 ├── Section 11 — Visualization (comparison plots)
 └── Section 12 — Gradio deployment interface
